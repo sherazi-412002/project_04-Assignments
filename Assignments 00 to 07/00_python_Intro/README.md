@@ -12,7 +12,7 @@ Each file is a bite-sized project designed to help you practice coding fundament
 | `add_two_numbers.py`      | ➕ **Adds two numbers** entered by the user and returns their sum.               |
 | `agreement_bot.py`        | 🤝 **Prints a custom sentence** using your favorite animal as input.            |
 | `fahrenheit_to_celsius.py`| 🌡️ **Converts temperature** from Fahrenheit to Celsius.                         |
-| `how_old_are_they.py`     | 🎂 **Calculates age** based on a birth year you input.                          |
+| `how_old_are_they.py`     | 🎂 **Display age** based on your age as input.                          |
 | `square_the_number.py`    | 🔢 **Squares a number** entered by the user.                                   |
 | `triangle_perimeter.py`   | 🔺 **Computes the perimeter** of a triangle using 3 user-provided side lengths. |
 
@@ -42,9 +42,9 @@ Here are a few ideas to take these scripts to the next level:
 
 - 🔄 Add **input validation** (e.g., make sure users enter numbers when needed)
 - 🧠 Wrap code in functions and add comments to improve clarity
-- 🎨 Use the `colorama` library to style your terminal output with colors
+- 🎨 Use the **termcolor** library to style your terminal output with colors
 - 📊 Combine two or more scripts into one bigger **mini project**
-- 🖼️ Try building a simple GUI using **Tkinter** or **PySimpleGUI**
+
 
 
 ## 👨‍💻 Author
