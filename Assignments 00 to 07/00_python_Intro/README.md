@@ -22,10 +22,6 @@ Each file is a bite-sized project designed to help you practice coding fundament
 
 ### 1️⃣ Clone the Repository
 
-```bash
-git clone [Assignments 00 to 07/00_python_Intro](https://github.com/sherazi-412002/project_04-Assignments.git
-)
-cd python-beginner-projects
 
 ### 3️⃣ Run Any Script
 Each file is independent. You can run any one of them like this:
@@ -55,5 +51,9 @@ Here are a few ideas to take these scripts to the next level:
 **Syed Soaib Sherazi**  
 📍 Passionate Pythonista & Problem Solver  
 💡 Always learning. Always building.  
-📫 Feel free to connect: [Syed Shoaib Sherazi](https://www.linkedin.com/in/syed-shoaib-sberazi-3638822b4/)
+📫 Feel free to connect:(https://www.linkedin.com/in/syed-shoaib-sberazi-3638822b4/)
+
+ ```bash
+git clone (https://github.com/sherazi-412002/project_04-Assignments.git)
+cd python-beginner-projects
 
