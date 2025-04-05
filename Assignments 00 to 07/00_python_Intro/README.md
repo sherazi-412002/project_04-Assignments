@@ -1,10 +1,10 @@
 
-🐍 Beginner Python Projects Collection
+# 🐍 Beginner Python Projects Collection
 Welcome to a mini collection of fun and simple Python scripts designed to strengthen your basic programming skills!
 Each file is a short project — interactive, beginner-friendly, and perfect for learning by doing. 🚀
 
-📂 What's Inside?
-File Name	Description
+## 📂 What's Inside?
+### File Name	Description
 add_two_numbers.py	➕ Takes two numbers from the user and returns their sum.
 agreement_bot.py	🤝 Prints a message like “My favorite animal is a 🐘!” using user input.
 fahrenheit_to_celcius.py	🌡️ Converts temperature from Fahrenheit to Celsius.
