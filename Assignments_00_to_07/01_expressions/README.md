@@ -1,5 +1,4 @@
-
-### 🧠 Python Expression Exercises – **01_expression**
+# 🧠 Python Expression Exercises – **01_expression**
 
 Welcome to the **01_expression** folder – a fun collection of beginner-friendly Python programs that explore the **core logic and expressions** in Python! Whether you're brushing up on math, simulations, or simple conversions, this repo has something cool to try out. 🎯
 
