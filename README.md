@@ -2,11 +2,14 @@
 
 Welcome to Project 04 Assignments! This repository contains a comprehensive collection of Python assignments and projects designed to help you develop your programming skills from beginner to intermediate level.
 
+
+
 ## 👨‍💻 Author
 
 **Syed Shoaib Sherazi**
 - [Connect on LinkedIn](https://www.linkedin.com/in/syed-shoaib-sberazi-3638822b4/)
 - [GitHub](https://github.com/sherazi-412002)
+
 
 
 ## 📚 Contents
@@ -28,12 +31,15 @@ This folder contains a progressive series of Python practice exercises, organize
 
 Each folder contains mini scripts that provide hands-on practice with Python concepts.
 
+
 ### 📘 Assignment_01
 
 This folder contains two levels of assignments:
 
 - **01_basics**: 🌱 Fundamental Python concepts and exercises
 - **02_intermediate**: 🚀 More advanced techniques and challenges
+
+
 
 ### 🎮 Assignment_1_to_6
 
@@ -51,12 +57,16 @@ This folder contains 9 complete Python projects that apply the concepts learned 
 | password_generator.py | 🔒 Generate secure passwords with customizable options |
 | rock_paper_scissors.py | ✂️ Interactive implementation of Rock, Paper, Scissors game |
 
+
+
 ## 🚀 Getting Started
 
 1. Clone this repository to your local machine
 2. Make sure you have Python installed (version 3.6+ recommended)
 3. Navigate to any project folder that interests you
 4. Run the Python scripts to see them in action
+
+
 
 ## ✨ Features
 
@@ -73,6 +83,7 @@ This folder contains 9 complete Python projects that apply the concepts learned 
   Practice scripts designed to strengthen your algorithmic thinking and code fluency.
 
 ---
+
 
 ## 🙌 Contributions
 
