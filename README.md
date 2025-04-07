@@ -5,34 +5,8 @@ Welcome to Project 04 Assignments! This repository contains a comprehensive coll
 ## 👨‍💻 Author
 
 **Syed Shoaib Sherazi**
-- [LinkedIn](https://www.linkedin.com/in/syed-shoaib-sberazi-3638822b4/)
+- [Connect on LinkedIn](https://www.linkedin.com/in/syed-shoaib-sberazi-3638822b4/)
 - [GitHub](https://github.com/sherazi-412002)
-
-## 📁 Repository Structure
-
-project_04_Assignments/
-├── Assignments_00_to_07/
-│   ├── 00_python_intro/
-│   ├── 01_expressions/
-│   ├── 02_lists/
-│   ├── 03_if_statements/
-│   ├── 04_dictionaries/
-│   ├── 05_loops_control_flow/
-│   ├── 06_functions/
-│   └── 07_information_flow/
-├── Assignment_01/
-│   ├── 01_basics/
-│   └── 02_intermediate/
-└── Assignment_1_to_6/
-    ├── bmi_calculator.py
-    ├── count_down_timer.py
-    ├── data_manipulation.py
-    ├── hangman.py
-    ├── madlib.py
-    ├── number_guessing_game_computer.py
-    ├── number_guessing_game_user.py
-    ├── password_generator.py
-    └── rock_paper_scissors.py
 
 
 ## 📚 Contents
@@ -105,3 +79,32 @@ This folder contains 9 complete Python projects that apply the concepts learned 
 Have suggestions or want to improve something?  
 Feel free to **fork** this repo, **raise issues**, or **open a pull request**!  
 Let's grow this project together 🚀
+
+
+
+## 📁 Repository Structure
+
+```bash
+project_04_Assignments/
+├── 📂 Assignments_00_to_07/
+│   ├── 📁 00_python_intro/
+│   ├── 📁 01_expressions/
+│   ├── 📁 02_lists/
+│   ├── 📁 03_if_statements/
+│   ├── 📁 04_dictionaries/
+│   ├── 📁 05_loops_control_flow/
+│   ├── 📁 06_functions/
+│   └── 📁 07_information_flow/
+├── 📂 Assignment_01/
+│   ├── 📁 01_basics/
+│   └── 📁 02_intermediate/
+└── 📂 Assignment_1_to_6/
+    ├── 📝 bmi_calculator.py
+    ├── 📝 count_down_timer.py
+    ├── 📝 data_manipulation.py
+    ├── 📝 hangman.py
+    ├── 📝 madlib.py
+    ├── 📝 number_guessing_game_computer.py
+    ├── 📝 number_guessing_game_user.py
+    ├── 📝 password_generator.py
+    └── 📝 rock_paper_scissors.py
