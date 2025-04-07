@@ -6,7 +6,7 @@ Welcome to Project 04 Assignments! This repository contains a comprehensive coll
 
 ## 👨‍💻 Author
 
-**Syed Shoaib Sherazi**
+### **Syed Shoaib Sherazi**
 - [Connect on LinkedIn](https://www.linkedin.com/in/syed-shoaib-sberazi-3638822b4/)
 - [GitHub](https://github.com/sherazi-412002)
 
