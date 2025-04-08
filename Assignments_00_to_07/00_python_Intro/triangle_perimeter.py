@@ -9,7 +9,7 @@ def triangle_perimeter():
         try:
             side1: float = float(input(colored("Enter the lenght of First side in cm : ","yellow")))
             side2: float = float(input(colored("Enter the lenght of Second side in cm : ","yellow")))
-            side3: float = float(input(colored("Enter the lenght of Third side in cm : ","yellow")))
+            side3: float = float(input(colored("Enter the lenght of Thired side in cm : ","yellow")))
             break
         except ValueError:
             print(colored("\nPlease Enter a valid input like integers.\n", "red"))
